@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1511453405 source:c:\users\killi\onedrive\documents\code\code_blocks_c\pendu_methodes\pendu_methodes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
